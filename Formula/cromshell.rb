@@ -11,7 +11,7 @@ class Cromshell < Formula
 
   depends_on "jq"
   depends_on "curl"
-  depends_on "cromwell" => [:test, :recommended]
+  depends_on "cromwell" => [:test, :optional]
 
   def install
 	bin.install "cromshell"
