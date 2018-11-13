@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://www.rubydoc.info/github/Homebrew/brew/master/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class GitRecent < Formula
   desc "git-recent displays the most recently checkout out git branches/tags/commits"
   homepage "https://gist.github.com/lbergelson/9b80449952eea27a13308d0cf0921a58"
